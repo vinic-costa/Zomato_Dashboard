@@ -35,3 +35,11 @@ This page provides a detailed analysis of Zomato's performance across different 
 <img width="876" alt="City Performance" src="./img/city-performance.png">
 
 By utilizing these interactive dashboards, users can gain comprehensive insights into Zomato's operations and make data-driven decisions to enhance performance and growth.
+
+---
+
+<div align="center">
+<i>Contato</i><br> 
+<br>
+<a href="https://www.linkedin.com/in/vinic-costa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
